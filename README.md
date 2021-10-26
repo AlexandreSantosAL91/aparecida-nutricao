@@ -1,2 +1,3 @@
-# aparecida-nutricao
-Aparecida Nutrição
+#Aparecida Nutrição
+
+O projeto foi construindo durante o curso JavaScript: Programando na linguagem da web...
